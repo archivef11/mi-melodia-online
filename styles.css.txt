@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fdfcff;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #f3e8ff;
+  border-bottom: 2px solid #e3d0ff;
+}
+
+.search-section {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.search-section input {
+  padding: 10px;
+  width: 250px;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+}
+
+.search-section button {
+  padding: 10px 16px;
+  margin-left: 8px;
+  background: #a974ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#results {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.song {
+  padding: 1rem;
+  background: #ffffff;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}

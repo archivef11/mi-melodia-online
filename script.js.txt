@@ -1,0 +1,17 @@
+function searchLyrics() {
+  const query = document.getElementById("searchInput").value.trim();
+  const results = document.getElementById("results");
+
+  if (!query) {
+    results.innerHTML = "<p>Please type a song name.</p>";
+    return;
+  }
+
+  // Placeholder results
+  results.innerHTML = `
+    <div class="song">
+      <h3>${query}</h3>
+      <p>Lyrics will go here...</p>
+    </div>
+  `;
+}
