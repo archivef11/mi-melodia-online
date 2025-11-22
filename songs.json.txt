@@ -1,0 +1,9 @@
+[
+  {
+    "artist": "Shakira",
+    "title": "Ojos Así",
+    "slug": "ojos-asi",
+    "lyrics": "Ayer conocí un cielo sin sol...",
+    "language": "es"
+  }
+]
