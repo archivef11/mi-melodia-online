@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Ojos Así — Shakira | Letras</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/">Mi-Melodía-Online</a>
+  </div>
+</header>
+
+<main class="container lyrics-page">
+  <h1>Ojos Así</h1>
+  <h2>Shakira</h2>
+
+  <pre class="lyrics">
+Ayer conocí un cielo sin sol y un hombre sin suelo
+Un santo en prisión y una canción triste sin dueño
+…
+  </pre>
+
+</main>
+
+</body>
+</html>
